@@ -48,6 +48,12 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT :
+![image](https://github.com/user-attachments/assets/116d387d-3b84-4501-81a1-c35a35fcdde3)
+![image](https://github.com/user-attachments/assets/23d7c648-8475-4527-9e54-9cd1d88800ba)
+![image](https://github.com/user-attachments/assets/3a51838b-49fa-45b4-bf29-2efcf759bce4)
+![image](https://github.com/user-attachments/assets/ff67209e-99a6-4fcc-a6bf-850da5cde4c9)
+
+## OUTPUT :
 ![Screenshot (43)](https://github.com/user-attachments/assets/3f9a8417-cbc1-4e3a-9aeb-d6e37ff3985d)
 
 
